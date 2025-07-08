@@ -1,3 +1,3 @@
-function showMessage(){
-  alert("You clicked button");
+function showMessage() {
+  alert("You clicked the button");
 }
