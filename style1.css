@@ -1,8 +1,9 @@
-body{
-  font-family:Arial;
-  background-color:blue;
-  padding:20px;
+body {
+  font-family: Arial, sans-serif;
+  background-color: blue;
+  padding: 20px;
 }
-h1{
-  color:#333;
+
+h1 {
+  color: #333;
 }
